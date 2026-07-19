@@ -1,0 +1,11 @@
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+fastapi
+uvicorn
+firebase-admin
+python-multipart
+pillow
+scikit-learn
